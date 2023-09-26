@@ -102,7 +102,5 @@ public class CreditCardTester {
         }
 
         myCard.display();
-
-        scanner.close();
     }
 }
