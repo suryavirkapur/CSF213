@@ -22,7 +22,7 @@ public class CreditCard
 	}
 
 	public void transact(int amt) {
-		if (this.currentCredit + amt << this.creditLimit && this.isEnabled && this.pin) {
+		if(this.currentCredit + amt < this.creditLimit) {
 			this.currentCredit = this.currentCredit + amt;
 			System.out.println("Transaction Approved");
 		} else {
