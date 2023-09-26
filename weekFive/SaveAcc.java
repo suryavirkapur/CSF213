@@ -22,7 +22,7 @@ class SavingsAccount {
     }
 }
 
-public class Main {
+public class SaveAcc {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
