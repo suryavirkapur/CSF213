@@ -70,7 +70,5 @@ public class EmployeeTester {
         for (Employee emp : employees) {
             emp.displayDetails();
         }
-
-        scanner.close();
     }
 }
