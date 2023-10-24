@@ -50,7 +50,7 @@ class Book {
 
 }
 
-public class L8Q2 {
+public class Books {
     
     static void print(String string) {
         System.out.println(string);
