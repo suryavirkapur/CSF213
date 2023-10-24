@@ -1,5 +1,4 @@
-Week 9 Question 3:
-PhoneNumberDetails.java
+
 import java.util.Scanner;
 
 public class PhoneNumber {
