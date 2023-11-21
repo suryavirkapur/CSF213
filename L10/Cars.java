@@ -38,7 +38,7 @@ class SportsCar extends Car {
 
 }
 
-public class L10Q2 {
+public class Cars {
     public static void main(String args[]) {
 
         ClassicCar cc = new ClassicCar(500, 2002);
